@@ -14,7 +14,7 @@ namespace Nette;
 class Framework
 {
 
-	const NAME = 'Nette Framework',
+	const NAME = 'Nette Framework Testing...',
 		VERSION = '2.4-dev',
 		VERSION_ID = 20400,
 		REVISION = '';
